@@ -12,7 +12,7 @@ Este repositório contém materiais, códigos e projetos desenvolvidos durante m
 
 ## 🛠 Tecnologias Utilizadas  
 
-- **Python 3.13 
+- **Python** 3.13 
 - **NumPy** – Para cálculos numéricos e operações vetoriais/matriciais.  
 - **Pandas** – Para manipulação e análise de dados.  
 - **Jupyter Notebook** – Para organização dos estudos e execução interativa dos códigos.  
